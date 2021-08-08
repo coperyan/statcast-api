@@ -1,6 +1,7 @@
 ### Baseball Data Wrapper
 
 ## Data Sources
+
 [Baseball Savant](https://baseballsavant.mlb.com/)
 
 ## Modules

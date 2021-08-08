@@ -2,7 +2,7 @@
 
 ### Data Sources
 
-[Baseball Savant](https://baseballsavant.mlb.com/)
+- Statcast Data from [Baseball Savant](https://baseballsavant.mlb.com/)
 
 ### Modules
 

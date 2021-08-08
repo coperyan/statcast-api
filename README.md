@@ -1,4 +1,4 @@
-## Baseball Data Wrapper
+# Baseball Data
 
 
 ### Data Sources

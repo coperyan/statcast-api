@@ -1,10 +1,10 @@
-### Baseball Data Wrapper
+## Baseball Data Wrapper
 
-## Data Sources
+### Data Sources
 
 [Baseball Savant](https://baseballsavant.mlb.com/)
 
-## Modules
+### Modules
 
 - Client.py
   - Client to handle auth / requests 

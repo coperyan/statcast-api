@@ -5,8 +5,8 @@ import pandas as pd
 import requests
 
 
-from helpers import parse_dataframe
-from utils import get_request_date
+from .helpers import parse_dataframe
+from .utils import get_request_date
 
 REQ_DATE = get_request_date()
 ROOT_URL= 'https://baseballsavant.mlb.com'

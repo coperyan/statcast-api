@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 from pathlib import Path
 import time
 
-from client import BaseballSavant
-from data import BaseballSavantData
+from .client import BaseballSavant
+from .data import BaseballSavantData
 
 # Setting up logger, Logger properties are defined in logging.ini file
 logging.config.fileConfig(f"{Path(__file__).parents[0]}/logging.ini")

@@ -16,4 +16,4 @@
 
 ### Reference
 
-[pybaseball]https://github.com/jldbc/pybaseball by James LeDoux
+[pybaseball](https://github.com/jldbc/pybaseball) by James LeDoux

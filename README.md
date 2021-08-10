@@ -22,6 +22,7 @@ This package depends on the following packages:
 - requests
 
 Can install by using `pip`.
+
 `sudo pip install -r requirements.txt`
 
 ### Installation

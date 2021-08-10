@@ -28,6 +28,7 @@ Can install by using `pip`.
 ### Installation
 
 To install, run the following command from the top-level package directory
+
 `sudo python setup.py install`
 
 ### Get Started

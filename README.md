@@ -48,4 +48,4 @@ df = bs_data.get_data_df()
 
 ### Reference
 
-[pybaseball](https://github.com/jldbc/pybaseball) by James LeDoux
+-[Pybaseball](https://github.com/jldbc/pybaseball) by James LeDoux
